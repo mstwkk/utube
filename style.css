@@ -1,0 +1,10 @@
+.border-bottom-2 {
+	border-bottom-width: 2px !important;
+	border-bottom-color: gray;
+	border-bottom-style: solid;
+}
+.btn {
+	border-radius: 4px;
+	color: white;
+	background-color: #ff0000;
+}
